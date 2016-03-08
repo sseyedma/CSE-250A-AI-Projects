@@ -1,0 +1,260 @@
+Test result for word SESSA.
+
+Eight most frequent words: THREE SEVEN EIGHT WOULD ABOUT THEIR WHICH AFTER 
+Eight least frequent words: OTTIS CAIXA BOSAK MAPCO TROUP NIAID FABRI SERNA 
+Answer for this round: SESSA
+prob for A: 0.346899
+prob for B: 0.0860997
+prob for C: 0.149095
+prob for D: 0.171462
+prob for E: 0.539417
+prob for F: 0.104002
+prob for G: 0.110078
+prob for H: 0.259733
+prob for I: 0.302553
+prob for J: 0.0156306
+prob for K: 0.0595826
+prob for L: 0.201032
+prob for M: 0.0900167
+prob for N: 0.232017
+prob for O: 0.31467
+prob for P: 0.0772493
+prob for Q: 0.00427105
+prob for R: 0.383102
+prob for S: 0.349894
+prob for T: 0.430693
+prob for U: 0.15631
+prob for V: 0.0636936
+prob for W: 0.109686
+prob for X: 0.0207495
+prob for Y: 0.105441
+Next best guess: E with Probability= 0.539417.
+Please put in your guess: E
+Right letter in position: 2
+prob for A: 0.573012
+prob for B: 0.189217
+prob for C: 0.170143
+prob for D: 0.124784
+prob for E: 0
+prob for F: 0.0150333
+prob for G: 0.171823
+prob for H: 0.142647
+prob for I: 0.139873
+prob for J: 0.00923468
+prob for K: 0.0172073
+prob for L: 0.187903
+prob for M: 0.0897957
+prob for N: 0.349379
+prob for O: 0.0377237
+prob for P: 0.0283543
+prob for Q: 0.000107738
+prob for R: 0.327063
+prob for S: 0.546316
+prob for T: 0.367544
+prob for U: 0.0187137
+prob for V: 0.0268787
+prob for W: 0.0377198
+prob for X: 0.0359113
+prob for Y: 0.257701
+Next best guess: A with Probability= 0.573012.
+Please put in your guess: A
+Right letter in position: 5
+prob for A: 0
+prob for B: 0.0417522
+prob for C: 0.0321697
+prob for D: 0.803179
+prob for E: 0
+prob for F: 0.00403072
+prob for G: 0.010419
+prob for H: 0.0153624
+prob for I: 0.618298
+prob for J: 0.00692068
+prob for K: 0.0307248
+prob for L: 0.226785
+prob for M: 0.653358
+prob for N: 0.056202
+prob for O: 0.0130808
+prob for P: 0.00760514
+prob for Q: 0.0026618
+prob for R: 0.071032
+prob for S: 0.0461632
+prob for T: 0.197353
+prob for U: 0.0026618
+prob for V: 0.0167313
+prob for W: 0
+prob for X: 0.00114077
+prob for Y: 0.0423606
+Next best guess: D with Probability= 0.803179.
+Please put in your guess: D
+Wrong letter: D
+prob for A: 0
+prob for B: 0.136012
+prob for C: 0.158037
+prob for D: 0
+prob for E: 0
+prob for F: 0.0204791
+prob for G: 0.0417311
+prob for H: 0.0606646
+prob for I: 0.0993045
+prob for J: 0.0351623
+prob for K: 0.156105
+prob for L: 0.222179
+prob for M: 0.285162
+prob for N: 0.279366
+prob for O: 0.0664606
+prob for P: 0.0386399
+prob for Q: 0.013524
+prob for R: 0.284776
+prob for S: 0.234544
+prob for T: 0.166538
+prob for U: 0.013524
+prob for V: 0.0788253
+prob for W: 0
+prob for X: 0.00579598
+prob for Y: 0.215224
+Next best guess: M with Probability= 0.285162.
+Please put in your guess: M
+Wrong letter: M
+prob for A: 0
+prob for B: 0.177297
+prob for C: 0.0459459
+prob for D: 0
+prob for E: 0
+prob for F: 0.0135135
+prob for G: 0.0481081
+prob for H: 0.0291892
+prob for I: 0.0924324
+prob for J: 0.0205405
+prob for K: 0.218378
+prob for L: 0.214595
+prob for M: 0
+prob for N: 0.384324
+prob for O: 0.092973
+prob for P: 0.0540541
+prob for Q: 0.0189189
+prob for R: 0.398378
+prob for S: 0.241081
+prob for T: 0.177297
+prob for U: 0.0189189
+prob for V: 0.11027
+prob for W: 0
+prob for X: 0.00810811
+prob for Y: 0.28973
+Next best guess: R with Probability= 0.398378.
+Please put in your guess: R
+Wrong letter: R
+prob for A: 0
+prob for B: 0.12938
+prob for C: 0.0619946
+prob for D: 0
+prob for E: 0
+prob for F: 0.0224618
+prob for G: 0.0799641
+prob for H: 0.0485175
+prob for I: 0.132075
+prob for J: 0.034142
+prob for K: 0.362983
+prob for L: 0.356694
+prob for M: 0
+prob for N: 0.566038
+prob for O: 0.154537
+prob for P: 0.0467206
+prob for Q: 0.0314465
+prob for R: 0
+prob for S: 0.132075
+prob for T: 0.128482
+prob for U: 0.0314465
+prob for V: 0.034142
+prob for W: 0
+prob for X: 0
+prob for Y: 0.397125
+Next best guess: N with Probability= 0.566038.
+Please put in your guess: N
+Wrong letter: N
+prob for A: 0
+prob for B: 0.298137
+prob for C: 0.142857
+prob for D: 0
+prob for E: 0
+prob for F: 0.0517598
+prob for G: 0.0621118
+prob for H: 0.111801
+prob for I: 0.304348
+prob for J: 0.0455487
+prob for K: 0
+prob for L: 0.587992
+prob for M: 0
+prob for N: 0
+prob for O: 0
+prob for P: 0.068323
+prob for Q: 0.0724638
+prob for R: 0
+prob for S: 0.26501
+prob for T: 0.256729
+prob for U: 0.0724638
+prob for V: 0.0786749
+prob for W: 0
+prob for X: 0
+prob for Y: 0.0786749
+Next best guess: L with Probability= 0.587992.
+Please put in your guess: L
+Wrong letter: L
+prob for A: 0
+prob for B: 0.311558
+prob for C: 0.0653266
+prob for D: 0
+prob for E: 0
+prob for F: 0
+prob for G: 0
+prob for H: 0
+prob for I: 0.376884
+prob for J: 0.110553
+prob for K: 0
+prob for L: 0
+prob for M: 0
+prob for N: 0
+prob for O: 0
+prob for P: 0.165829
+prob for Q: 0.175879
+prob for R: 0
+prob for S: 0.577889
+prob for T: 0.623116
+prob for U: 0.175879
+prob for V: 0
+prob for W: 0
+prob for X: 0
+prob for Y: 0
+Next best guess: T with Probability= 0.623116.
+Please put in your guess: T
+Wrong letter: T
+prob for A: 0
+prob for B: 0.173333
+prob for C: 0.173333
+prob for D: 0
+prob for E: 0
+prob for F: 0
+prob for G: 0
+prob for H: 0
+prob for I: 0.346667
+prob for J: 0
+prob for K: 0
+prob for L: 0
+prob for M: 0
+prob for N: 0
+prob for O: 0
+prob for P: 0.173333
+prob for Q: 0.466667
+prob for R: 0
+prob for S: 0.826667
+prob for T: 0
+prob for U: 0.466667
+prob for V: 0
+prob for W: 0
+prob for X: 0
+prob for Y: 0
+Next best guess: S with Probability= 0.826667.
+Please put in your guess: S
+Right letter in position: 1
+Right letter in position: 3
+Right letter in position: 4
+Done!

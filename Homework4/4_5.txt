@@ -1,0 +1,7 @@
+Reading data...
+done
+[ 0.95066789  0.01561154  0.03189104]
+Error on training data:  13902.4010772
+Reading data...
+done
+Error on testing data:  2985.10109701
