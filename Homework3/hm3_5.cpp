@@ -1,6 +1,4 @@
-// Code Created for CSE 250A Homework 3 Question 5
-// Creator: Jingyuan Li with All rights reserved.
-// 10-18-2015 At UCSD
+
 
 
 #include <fstream>
